@@ -1,4 +1,4 @@
-# Stock Estimator Application
+# Stock Price Estimator Application
 
 This application challenges users to estimate which of two randomly chosen stocks has a higher value based on stock prices from August 9th. The user scores points for correct guesses and loses all points for incorrect guesses. 
 
@@ -28,13 +28,13 @@ This application challenges users to estimate which of two randomly chosen stock
 ## Example Usage 📋
 
 ```python
-Stock A: Apple Inc (NASDAQ: AAPL)
+Stock A: YUM! BRANDS, INC (NYSE: YUM)
 
-Stock B: Visa Inc (NYSE: V)
+Stock B: JP MORGAN CHASE & CO (NYSE: JPM)
 
-What stock do you estimate is higher? Select A or B: a
+What stock do you estimate is higher? Select A or B: b
 
-Good Choice! You chose Apple Inc which has a higher valuation at $216.24 compared to Visa Inc which has a lower valuation at $259.76
+Good Choice! You chose JP MORGAN CHASE & CO (NYSE: JPM) which has a higher valuation at $205.8 compared to YUM! BRANDS, INC (NYSE: YUM) which has a lower valuation at $136.79
 
 Your score is: 1
 
