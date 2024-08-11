@@ -45,23 +45,12 @@ Thank you for trying out the stock price application. Please try us again someti
 
 ## Installation & Setup 🚀
 
-To run the stock estimator application, you'll need Python installed on your machine. Follow these steps to get started:
+To run the stock estimator application, you'll need to clone this Python repository on your machine. Follow these steps to get started:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/stockestimator.git
+    git clone https://github.com/brianhernandez04/StockEstimatorApp
     ```
-
-2. **Navigate to the project directory:**
-    ```bash
-    cd stockestimator
-    ```
-
-3. **Run the application:**
-    ```bash
-    python stockestimator.py
-    ```
-
 Ensure you have Python 3.x installed. If you don't have Python installed, you can download it from [python.org](https://www.python.org/downloads/).
 
 ## Version Control ⬇️
